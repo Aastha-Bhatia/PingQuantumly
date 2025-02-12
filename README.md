@@ -1,7 +1,6 @@
 # PingQuantumly
 
-## Screenshots
-### Home Page
+## Preview
 ![Home Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot1.png)
 ![Information Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot2.png)
 ![Internet Speed Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot3.png)
