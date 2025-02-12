@@ -10,10 +10,6 @@
 ![Download Speed Test Complete](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot6.png)
 ![Upload Speed Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot7.png)
 
-### Speed Test in Action
-![Speed Test](https://raw.githubusercontent.com/YourUsername/PingQuantumly/main/screenshots/speed-test.png)
-
-
 **PingQuantumly** is an Internet Speed Testing application that measures your download and upload speed efficiently. Built using **Java Swing**, it provides a simple yet effective UI for users to analyze their network performance.
 
 ## 🚀 Features
