@@ -2,7 +2,13 @@
 
 ## Screenshots
 ### Home Page
-![Home Page][https://raw.githubusercontent.com/YourUsername/PingQuantumly/main/screenshots/home.png](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot1.png)
+![Home Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot1.png)
+![Information Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot2.png)
+![Internet Speed Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot3.png)
+![No Connection](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot4.png)
+![Download Speed Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot5.png)
+![Download Speed Test Complete](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot6.png)
+![Upload Speed Page](https://github.com/Aastha-Bhatia/PingQuantumly/blob/main/Screenshot7.png)
 
 ### Speed Test in Action
 ![Speed Test](https://raw.githubusercontent.com/YourUsername/PingQuantumly/main/screenshots/speed-test.png)
