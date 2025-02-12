@@ -53,7 +53,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 For any queries, feel free to reach out:
 - **GitHub**: [Aastha-Bhatia](https://github.com/Aastha-Bhatia)
-- **Email**: (aasthabhatia.er@gmail.com)
+- **Email**: aasthabhatia.er@gmail.com
 - **LinkedIn**: [aasthabhatia.er@gmail.com](https://www.linkedin.com/in/aasthabhatia-er/)
 
 ---
